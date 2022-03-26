@@ -1,2 +1,2 @@
 # youtube_channel
-test用
+youtubeで触ったソースコードを保管しておきます。
